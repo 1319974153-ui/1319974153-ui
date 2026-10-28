@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">温舒，杭州 FDE · GEO 践行者</title><desc id="desc">从业务问题出发，把 AI 能力推进到可用的产品。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b101c"/><stop offset="1" stop-color="#17273d"/></linearGradient><radialGradient id="glow"><stop stop-color="#87c4ff" stop-opacity=".26"/><stop offset="1" stop-color="#87c4ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/><ellipse cx="1110" cy="190" rx="390" ry="260" fill="url(#glow)"/>
+<g fill="none" stroke="#b5d9f7" opacity=".16"><path d="M900 300 1040 60 1180 300ZM970 300 1110 60 1250 300Z"/><path d="M850 300h430"/></g>
+<text x="72" y="78" fill="#9bb8d2" font-size="16" letter-spacing="5" font-family="system-ui,sans-serif">HANGZHOU / CHINA</text>
+<text x="68" y="175" fill="#f2f6fb" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="70" font-weight="700">温舒 <tspan font-size="42" fill="#b7cde2">WENSHU</tspan></text>
+<text x="72" y="232" fill="#b9e9ec" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="27">杭州 FDE · GEO 践行者</text>
+<text x="72" y="301" fill="#a0b0c4" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="22">从业务问题出发，把 AI 能力推进到可用的产品。</text>
+</svg>
